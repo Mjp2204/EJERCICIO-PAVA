@@ -1,14 +1,10 @@
-# Ideas de proyecto 
+# LINKS MAPAS DE CLASES Y DE CASOS
 
-1. Herencia -> Minimo 3 subclases
-alli se debe encontrar al menos una abstracta
-2. Agregacion
-3. Interface -> no grafica aunque se va a agragar
-4. Menu con 5 opciones
+## Diagrama de clases:
+<<<<<<< HEAD
+https://lucid.app/lucidchart/c06f849c-d2c9-499b-b866-793291dcb264/edit?view_items=41N5nf13wb_Q&invitationId=inv_abfea2a8-9820-45aa-9cd0-ff530318a6ed
+![1](<Imagenes/Clase UML.png>)
 
-guia turistica por paises exoticos
-
-Turista -> de alli va a salir la clase de lo que es paseo como el quiera
-guia -> menu de seleccion
-lugar -> alli tambien se mostrara lugar y tiempo
-pago
+## Diagrama de casos de uso:
+https://lucid.app/lucidchart/76d7981d-8093-4b84-830d-ff160fcb389f/edit?viewport_loc=-1666%2C21%2C3479%2C1896%2C.Q4MUjXso07N&invitationId=inv_8bfca35f-58a7-46af-b9b5-df4fe0e93c07
+![2](<Imagenes/Diagrama de caso de uso .png>)
